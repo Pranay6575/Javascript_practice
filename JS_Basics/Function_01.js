@@ -41,7 +41,7 @@ function showOutput(){
 }
 showOutput();
  let inp = showOutput();
- console.log(inp)
+ console.log(inp);
 
  //Prb 2. Write a function that returns the square of a number
 
