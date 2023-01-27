@@ -88,7 +88,7 @@ function findPermieter(radius){
   return 2*Math.PI*radius
 }
 let num2 = 44;
-console.log("The Parameter of Circle is "+findPermieter(num2))
+console.log("The Parameter of Circle is "+findPermieter(num2));
 
 // Prb 6. Write a function to reverse a number
 
