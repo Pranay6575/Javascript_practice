@@ -1,0 +1,9 @@
+let  value = 1;
+value += 5 
+console.log("Value is now = " , value)
+value -= 5 
+console.log("Value is now = ", value)
+value *= 5          
+console.log("Value is now = " , value)
+value /= 5          
+console.log("Value is now = ", value)
