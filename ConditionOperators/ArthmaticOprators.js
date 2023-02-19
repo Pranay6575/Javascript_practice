@@ -1,4 +1,4 @@
-"Hay Hi"
+
 console.log("Opeartors in Javascript")
 let a = 90;
 let b = 40;
