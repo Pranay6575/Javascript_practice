@@ -1,4 +1,5 @@
-let totalDistance = prompt("Enter the distance in Km !");
+function convertDistance(totalDistance){
+ totalDistance = prompt("Enter the distance in Km !");
 
 let InMeters = totalDistance*1000;
 alert(InMeters +" Meters");
@@ -11,3 +12,5 @@ alert(InInches+" In inches");
 
 let InCentimtrs = InMeters * 100;
 alert(InCentimtrs+" Cms");
+}
+convertDistance();

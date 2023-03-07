@@ -1,5 +1,5 @@
-const nameAge = (name,age) => {
-    return ` ${name,age}`
+const disPlayData = (data) => {
+    return ` ${data}`
 }
-console.log("Hello"+nameAge("Andrew"));
-console.log("You are "+ nameAge(47)+ " Years old");
+console.log("Hello"+disPlayData("Andrew"));
+console.log("You are "+ disPlayData(47)+ " Years old");

@@ -1,4 +1,4 @@
-const MultiplyOdds = (arr) =>{
+const multiplyIFOdd = (arr) =>{
     let total = 1;
     for(let num of arr){
         if(num % 2 !== 0){
@@ -8,4 +8,4 @@ const MultiplyOdds = (arr) =>{
     return total;
 }
 let newar = [1,8,5,3,11,9];
-console.log(MultiplyOdds(newar));
+console.log(multiplyIFOdd(newar));

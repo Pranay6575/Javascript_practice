@@ -1,5 +1,5 @@
-const weightInLbs = (kgweight) =>{
-let lbs = kgweight * 2.2;
+const weightInLbs = (kgWeight) =>{
+let lbs = kgWeight * 2.2;
 if(lbs > 150){
     return "Obese";
 }
